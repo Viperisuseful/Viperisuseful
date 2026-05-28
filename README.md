@@ -25,7 +25,7 @@
 |---|---|---|---|
 | 🧱 | **[viperproxy](https://github.com/Viperisuseful/viperproxy)** — Fabric mod routing Minecraft multiplayer through SOCKS5/HTTP/HTTPS proxies | Java 21 · Fabric · Netty | live |
 | 🐢 | **turtle-dashboard** — Discord moderation platform with bot, web dashboard, MC bridge | Node.js · Discord.js · MongoDB | live |
-| ⚡ | **[quickrunlab](https://github.com/Viperisuseful/quickrunlab)** — cloud code execution with PTY terminal and Gemini AI tutor | Python · Flask · Redis · Docker | archived |
+| ⚡ | **[quickrunlab](https://www.quickrunlab.tech/)** — cloud code execution with PTY terminal and Gemini AI tutor | Python · Flask · Redis · Docker | live |
 | 🔧 | **dulkirmod-port** — port of DulkirMod-Fabric to Minecraft 1.21.11 | Kotlin · Java · Fabric | active |
 
 ---
